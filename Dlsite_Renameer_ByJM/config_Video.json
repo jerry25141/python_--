@@ -1,0 +1,20 @@
+{
+	 "replace_rules":
+	 [
+		{
+            "type": "rj",
+			"from": "",
+			"to": "workno title [circle]"
+		},
+		{
+            "type": "bj",
+			"from": "",
+			"to": "[workno][circle (author)] title "
+		},
+		{
+            "type": "vj",
+			"from": "",
+			"to": "[workno][circle] title "
+		}
+	]
+} 

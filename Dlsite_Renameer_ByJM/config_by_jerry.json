@@ -1,0 +1,17 @@
+{
+	"replace_rules_cover_img":
+	[
+		{
+			"fileType": "Hgame",
+			"to": "(1)title [circle]"
+		},
+		{
+			"fileType": "Asmr",
+			"to": "cover"
+		},
+		{
+			"fileType": "Video",
+			"to": "folder"
+		}
+	]
+} 
