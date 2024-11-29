@@ -1,6 +1,6 @@
 # 第三次作業 (期末)
 
-## [pyautogui 簡易測試](pyautogui/readme.md)
+## [pyautogui 簡易測試](pyautogui/)
 
 ## ffmpeg 轉檔
 
